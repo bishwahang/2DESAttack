@@ -2,7 +2,7 @@ Implementation of meet in the middle attack against double
 applications of a symmetric cipher, showing why multiple encryption is not a good appraoch, when encryption and decryption key becomes same.
 Performs exhaustive key search for known plaintext and ciphertext.
 
-Pydes <twhiteman.netfirms.com/pyDES/pyDes-2.0.1.zip> for DES encryption/decryption.
+Pydes twhiteman.netfirms.com/pyDES/pyDes-2.0.1.zip for DES encryption/decryption.
 
 Usage:
 python meetinthemiddle.py plaintext ciphertext keylength
